@@ -149,7 +149,7 @@ namespace ipquery
             try
             {
                 //从www.75cdn.org上获取360网站卫士IP段
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://www.75cdn.org/data/attachment/wzb/qhip.wzb");
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("###和谐####");
                 //声明一个HttpWebRequest请求
                 request.Timeout = 3000000;
                 //设置连接超时时间
